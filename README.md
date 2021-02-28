@@ -1,4 +1,4 @@
-# node-fundamentals
+# Node-fundamentals
 Challenge about fundamentals of Node.js applied on Bootcamp GoStack
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
